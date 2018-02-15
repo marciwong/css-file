@@ -1,0 +1,35 @@
+%%html
+<style>
+.output_wrapper, .output {
+    height:auto !important;
+    max-height: none;
+}
+.output_scroll {
+    box-shadow:none !important;
+    webkit-box-shadow:none !important;
+}
+
+    width: 100%;
+    background-color: #0e2b59;
+    color: #ffffff;
+    font-size: 14px;
+    text-align: center;
+    padding-top: 8px;
+    padding-right: 8px;
+    padding-bottom: 8px;
+    padding-left: 8px;
+}
+
+.placeholder {
+    width: 100%;
+    background-color: #ffffff;
+    height: 6px;
+}
+
+.passed_test_table {
+  display: table;         
+  width: 100%;         
+
+  background-color: #ebffd3;                
+  border-spacing: 5px;
+}
